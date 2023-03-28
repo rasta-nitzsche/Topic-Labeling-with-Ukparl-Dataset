@@ -5,7 +5,7 @@
 ## Introduction
 
 Companies across a wide spectrum of industries are beginning to embrace data science as a
-means of gathering and leveraging smarter business intelligence. Those organizations that fail
+mean of gathering and leveraging smarter business intelligence. Those organizations that fail
 to keep up won’t be able to compete in the future. This is an exciting time to be a data
 scientist, or aspiring data scientist, as dynamic and lucrative new opportunities continue to
 open up at a rapid clip.
